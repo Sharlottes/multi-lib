@@ -6,7 +6,7 @@ on:
             - java
     pull_request:
         branches:
-            - java
+            - java 
 
 jobs:
   buildJar:
